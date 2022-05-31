@@ -1,0 +1,27 @@
+* {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+  
+  }
+  
+  .logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+      height: 100%;
+ 
+ 
+  }
+
+  .service{
+    display: flex;
+    align-items: center;    
+  }
+  
+  .link {
+    font-size: 30px;
+  }
+  
+
+  
